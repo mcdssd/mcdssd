@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mcdssd
+- 🌱 I’m a student, new learning about coding.
+- 🖥️ I’m looking to improve on C, Phyton and Java
